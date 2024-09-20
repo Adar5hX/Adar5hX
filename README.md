@@ -19,7 +19,7 @@ Feel free to check out my repositories, and don't hesitate to connect if you wan
 
 # GitHub Stats
 
-![Adar5hX's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adar5hX&show_icons=true&theme=radical&v=1)
+![Adar5hX's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adar5hX&show_icons=true&theme=radical&cache_seconds=180)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adar5hX&layout=compact&theme=radical)
 
