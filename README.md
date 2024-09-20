@@ -13,5 +13,10 @@ I'm excited to explore the world of coding and learn new things along the way. I
 
 Feel free to check out my repositories, and don't hesitate to connect if you want to collaborate!
 
+# GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adar5hX&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adar5hX&layout=compact&theme=radical)
 <!-- Replace the link with your own GitHub profile link -->
 [![GitHub](https://img.shields.io/github/followers/Adar5hX?label=Follow%20Me&style=social)](https://github.com/Adar5hX)
