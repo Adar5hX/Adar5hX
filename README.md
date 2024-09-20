@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Adarsh Samal 👋
 
-<!--
-**Adar5hX/Adar5hX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm excited to explore the world of coding and learn new things along the way. I'm currently working on improving my skills and building cool projects. 
 
-Here are some ideas to get you started:
+### What I'm interested in:
+- 🛠️ Automating tasks
+- 🚀 Working on cool projects
+- 💡 Learning new programming languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Fun facts:
+- I love discovering new tech and trying things out.
+- I'm currently learning coding step by step!
+
+Feel free to check out my repositories, and don't hesitate to connect if you want to collaborate!
+
+<!-- Replace the link with your own GitHub profile link -->
+[![GitHub](https://img.shields.io/github/followers/Adar5hX?label=Follow%20Me&style=social)](https://github.com/Adar5hX)
